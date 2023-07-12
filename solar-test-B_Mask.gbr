@@ -1,0 +1,28 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9)*%
+%TF.CreationDate,2022-11-21T20:55:40-06:00*%
+%TF.ProjectId,solar-test,736f6c61-722d-4746-9573-742e6b696361,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.9)) date 2022-11-21 20:55:40*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,1.000000*%
+%ADD11R,2.400000X2.400000*%
+%ADD12C,2.400000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,TP1*%
+X160000000Y-113450000D03*
+%TD*%
+D11*
+%TO.C,C1*%
+X168250000Y-112384785D03*
+D12*
+X168250000Y-117384785D03*
+%TD*%
+M02*
